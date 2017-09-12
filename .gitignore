@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+data
+.floydexpt
+.floydignore
+dlnd_face_generation_old.ipynb
